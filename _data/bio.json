@@ -9,9 +9,9 @@
     "summary": "I am studying for a B.S. in Computer Science in Vanderbilt University. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "mmaluhia", "url": "http://github.com/davidhuang2002" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/david-joseph-huang/" },
+      { "network": "instagram", "username": "molly", "url": "https://www.instagram.com/davidhuangdawei/" }
     ]
   },
   "interests": [
