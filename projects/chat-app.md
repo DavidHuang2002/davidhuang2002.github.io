@@ -24,9 +24,7 @@ The deployment was done using Vercel for the front-end and Azure Web Service for
 
 ## What I learned
 
-This experience taught me a lot about how to use web socket for real time communications. Deploying it on the web also gave me the experience with Vercel.
-
-The deployment was done using Vercel for the front-end
+This experience taught me a lot about how to use web socket for real time communications. Deploying it on the web also gave me the chance of trying out deployment using Vercel and practicing my skill of using Azure.
 
 ## Show me the code
 
