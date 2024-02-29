@@ -20,7 +20,7 @@ A minimalistic live chat app with user and chat room, built using node.js and so
 
 You can try it out live by clicking  <a href="https://my-chat-app-five-lemon.vercel.app/"> here </a>! Make a room in one tab; join the room from another tab (or have your friend join!), and let conversations happen.
 
-The deployment was done using Vercel for the front-end. Azure Web Service for the back end because vercel doesn't seem to support web socket, at least not easily : \(
+The deployment was done using Vercel for the front-end and Azure Web Service for the back-end because vercel doesn't seem to support web socket, at least not easily : \(
 
 ## What I learned
 
