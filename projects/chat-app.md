@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/chat-app/live-chat-narrow.png
+image: img/chat-app/live-chat-icon.png
 title: "Simple Chat App"
 date: 2024
 published: true
