@@ -10,13 +10,13 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/extreme-programming/meme.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/extreme-programming/meme.png">
 
 Overall, I think Extreme Programming (XP) is an “ecosystem” of practices that place a high focus on maintaining a high-quality, bug-free codebase. In my report, I will examine several core practices that I found interesting and examine the logic behind them. Then, I will use my own experiences to hypothesize some situations where XP might fail to work.
 
-In its practices, XP’s emphasis on testing is the first thing that stood out to me. Test-driven development is something most of us programmers are familiar with. However, when it comes to XP, the importance of testing is taken to a new level. In Ron’s essay “What is Extreme Programming”, he repeatedly uses the word “obsess” when describing testing, for example: 
+In its practices, XP’s emphasis on testing is the first thing that stood out to me. Test-driven development is something most of us programmers are familiar with. However, when it comes to XP, the importance of testing is taken to a new level. In Ron’s essay “What is Extreme Programming”, he repeatedly uses the word “obsess” when describing testing, for example:
 
-“with a simple design and obsessively tested code” 
+“with a simple design and obsessively tested code”
 “kept reliable by XP’s obsession with testing”
 “Extreme Programming is obsessed with feedback, and in software development, good feedback requires good testing”
 
