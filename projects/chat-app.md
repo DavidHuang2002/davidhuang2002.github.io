@@ -10,7 +10,7 @@ labels:
   - Node.js
   - React
   - Deployment
-summary: "A minimalistic live chat app with user and chat room"
+summary: "A minimalistic live chat app with user and chat room, deployed using Vercel and Azure."
 ---
 
 
